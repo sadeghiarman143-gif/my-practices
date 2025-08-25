@@ -1,0 +1,139 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-sizing: border-box;
+}
+.head{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+.name{
+    display: inline-block;
+    color: black;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.nav{
+    display: flex;
+    color: blueviolet;
+    text-decoration: none;
+    a:hover{
+        color: brown;}
+}
+.ul{
+    color: aquamarine;
+    text-decoration: none;
+}
+.a{
+    text-decoration: none;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 300px;
+    position: relative;
+    gap: 20px;
+}.img{ position: absolute;
+    width: 500px;
+}
+.p{
+    position: absolute;
+    bottom: 0;
+    font-size: 20px;
+    color: chartreuse;
+    background-color: black;
+
+}
+.div{
+    display: block;
+    justify-content: center;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.history{
+   display:block;
+    color: black;
+    background-color: aliceblue;
+
+    justify-content: center;
+    text-align: center;
+}
+.text{border: 2px solid brown;
+    border-radius: 20px;
+}
+.asar{
+  margin-left: 100px;
+}
+.ph{
+    border: 2px solid white;
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+}
+.hh{
+    text-align: center;
+}
+.aks{
+    border: 2px solid gold;
+    height: 200px;
+    width: 300px;
+    a:hover{
+        color: blue;
+    }
+}
+.asar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.how{
+    border: 2px solid snow;
+    width: 150px;
+    height: 100px;
+    overflow: auto;
+}
+.hallo{
+    display: block;
+    justify-content: center;
+}
+.hh{
+    display: block;
+}
+.tad{
+    margin: auto;
+    justify-content: center;
+    border: 2px solid red;
+    align-items: center;
+    text-align: center;
+}
+.tr{
+    border: 2px solid red;
+}
+.your{
+    display: block;
+    justify-content: center;
+}
+.contact{
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+}
+.aria{
+    border: 2px solid gray;
+    margin-top: 50px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+.aa{
+    text-decoration: none;
+}
